@@ -24,3 +24,4 @@ msg_from = 'xxxxxxxxxxxxxxxxx'  # 发送方邮箱
 passwd = 'xxxxxx'  # 填入发送方邮箱的授权码
 msg_to = 'xxxxxxxxxxxxxxxxxxxx'  # 收件人邮箱
 ```
+![签到邮件示意图](https://raw.githubusercontent.com/master-lzh/AirportSignIn/master/P%7BL%7D9D%7B_N%60Q%5D\)OXL95VJO_H.png)
